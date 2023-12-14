@@ -23,5 +23,4 @@ We invite researchers, practitioners, and enthusiasts in the field of cybersecur
 - [MS16-032 Local Privilege Escalation (Python)](Exploits/Others/MS16-032/)
 - [MS08-067 DCERPC RCE (Python)](Exploits/Others/MS08-067/)
 - [Exchange Remote Code Execution (CVE-2020-0688) WebShell Uploader](Exploits/Others/ExchangeRCE/)
-- [Citrix Remote Code Execution (CVE-2019-19781)](Exploits/Others/CitrixRCE)
 - [LOTUS DOMINO Exploit - Password Extractor(cve 2007-0977|2005-2428)](Exploits/Others/LotusDomino/)
